@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Fatmah Fianka Syafrudin
+# Diabetes Predictive Analysis
 
 ## Domain Proyek
 
